@@ -2,14 +2,15 @@
 - 👀 20 years as front end web developer HTML/CSS/JS/PHP PSD/AI/AE Web3/REACT/ MODX
 - 📫 Fork my stuff and make it better!
 - Graphic Designer
-Some of my work:
-
+- 
+- Some of my work:
+- defitanda.xyz
 - stellarbb.com
-newplaninc.co
-andalemexgrill.com
-lostresmexgrill.com
-pleatsinteriordesign.com
-lostresamigosonline.com
-rowingright.com
-miaowia.us
-casatequilagrill.com
+- newplaninc.co
+- andalemexgrill.com
+- lostresmexgrill.com
+- pleatsinteriordesign.com
+- lostresamigosonline.com
+- rowingright.com
+- miaowia.us
+- casatequilagrill.com
