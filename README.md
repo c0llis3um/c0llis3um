@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @c0llis3um
-- 👀 Tanda Solana web3 frontend programmer
+- 👀 Web front end programmer
 - 📫 fork my stuff and make it better!
