@@ -4,7 +4,7 @@
 - Graphic Designer
 Some of my work:
 
-stellarbb.com
+- stellarbb.com
 newplaninc.co
 andalemexgrill.com
 lostresmexgrill.com
